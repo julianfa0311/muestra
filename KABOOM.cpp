@@ -113,7 +113,7 @@ void dibut(int protei, int protej)
         minas++;
     }
 
-    // Calcular números
+    // Calcular nÃºmeros
     for(int i = 0; i < filas; i++)
     {
         for(int j = 0; j < columnas; j++)
